@@ -12,7 +12,7 @@ IMPC provides a set of computational tools and workflows tailored for the estima
 - Modular Python and Jupyter-based workflows.
 - Methods for preprocessing, analysis, and visualization of IMPC metrics.
 - Interface for customizable pipelines using your own datasets.
-- Open-source: freely reusable under the MIT License.[1]
+- Open-source: freely reusable under the MIT License.
 
 ## Getting Started
 
@@ -21,6 +21,7 @@ IMPC provides a set of computational tools and workflows tailored for the estima
 - Python 3.x
 - Jupyter Notebook
 - Required Python packages (see your `requirements.txt` or specify here if available).
+- AGORA-2.01. Please download it from this [website](https://vmh.life/files/reconstructions/AGORA2/version2.01/) and extract it into the main folder, putting all the files in a folder called AGORA-2.01
 
 ### Installation
 
@@ -35,7 +36,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 or install required packages manually if no requirements file is provided.
-Extract the AGORA-2.01.zip into the main folder.
+
 ### Usage
 
 - Open the main notebook in Jupyter:
@@ -47,8 +48,8 @@ Extract the AGORA-2.01.zip into the main folder.
 ## Code Structure
 
 - **Jupyter Notebooks:** Main scripts for running the IMPC computation. It includes analyses for all ages, under 25 and above 25
-- **Python Files:** Supporting functions and modules.
-- **Data:** (Optional) Place for input datasets and example results.
+- **src:** Supporting functions and modules.
+- **data:** Place for input datasets and example results.
 
 ## License
 
