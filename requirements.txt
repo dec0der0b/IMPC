@@ -7,7 +7,7 @@ appdirs==1.4.4
 asttokens==2.4.1
 async-timeout==4.0.3
 attrs==24.2.0
-Bottleneck @ file:///C:/b/abs_f05kqh7yvj/croot/bottleneck_1707864273291/work
+Bottleneck
 certifi==2024.2.2
 charset-normalizer==3.3.2
 cloudpickle==3.0.0
@@ -56,8 +56,8 @@ MarkupSafe==2.1.5
 matplotlib==3.8.3
 matplotlib-inline==0.1.6
 mdurl==0.1.2
-mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
-mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
+mkl-fft
+mkl-random
 mkl-service==2.4.0
 mpmath==1.3.0
 multidict==6.0.5
@@ -65,8 +65,8 @@ nest-asyncio==1.6.0
 networkx==3.2.1
 NEURON==7.8
 numba==0.59.1
-numexpr @ file:///C:/b/abs_5fucrty5dc/croot/numexpr_1696515448831/work
-numpy @ file:///C:/b/abs_16b2j7ad8n/croot/numpy_and_numpy_base_1704311752418/work/dist/numpy-1.26.3-cp310-cp310-win_amd64.whl#sha256=e84057072c37569bd0e11652dc2a75980d4d360f2391adf6a29a2fb1622d20ff
+numexpr
+numpy
 optlang==1.8.1
 orjson==3.10.7
 packaging==23.2
@@ -83,9 +83,9 @@ pydantic_core==2.16.3
 Pygments==2.17.2
 pyparsing==3.1.1
 pytest==8.0.1
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dateutil
 python-libsbml==5.19.2
-pytz @ file:///C:/b/abs_19q3ljkez4/croot/pytz_1695131651401/work
+pytz
 pywin32==306
 PyYAML==6.0.1
 pyzmq==25.1.2
@@ -97,7 +97,7 @@ scikit-learn==1.4.1.post1
 scipy==1.12.0
 seaborn==0.13.2
 shap==0.45.0
-six @ file:///tmp/build/80754af9/six_1644875935023/work
+six
 slicer==0.0.7
 sniffio==1.3.0
 SQLAlchemy==2.0.33
@@ -114,7 +114,7 @@ tornado==6.4
 tqdm==4.66.2
 traitlets==5.14.1
 typing_extensions==4.9.0
-tzdata @ file:///croot/python-tzdata_1690578112552/work
+tzdata
 urllib3==2.2.1
 wcwidth==0.2.13
 websockets==11.0.3
